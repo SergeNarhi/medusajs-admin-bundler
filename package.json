@@ -28,7 +28,7 @@
   "dependencies": {
     "@medusajs/admin-shared": "2.0.7",
     "@medusajs/admin-vite-plugin": "2.0.7",
-    "@medusajs/dashboard": "2.0.7",
+    "@medusajs/dashboard": "git+https://github.com/SergeNarhi/medusa-dashboard.git#main",
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.16",
     "compression": "^1.7.4",
